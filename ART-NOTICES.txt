@@ -1,0 +1,12 @@
+TOUCHLINE · ORIGINAL GENERATED PORTRAIT ART
+
+Created 7 November 2026 with OpenAI ImageGen for the original Touchline demo.
+Two 4x4 atlases: 16 original fictional character portraits; 16 original editorial illustrations of public footballers. These are generated artwork, not photographs, official images, or documentary likenesses. No affiliation or endorsement is implied. In-game labels distinguish generated/illustrative portraits from individually verified photographs.
+
+Editorial illustration atlas, row-major order:
+Mohamed Salah; Erling Haaland; Bruno Fernandes; Bukayo Saka;
+Ángel Di María; Nicolás Otamendi; Diogo Costa; Viktor Gyökeres;
+Morten Hjulmand; Francisco Trincão; Orkun Kökçü; Vangelis Pavlidis;
+Virgil van Dijk; Cole Palmer; Son Heung-min; Luis Díaz.
+
+Normalized to 1024x1024 WebP; source identifiers and SHA256 are recorded in src/assets/portraits/provenance.json in the editable project. Generic SVG portraits remain for historical players without an admitted photograph or curated illustration. No official club logos or assets from a commercial football game are included.
