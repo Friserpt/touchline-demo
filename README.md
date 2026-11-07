@@ -12,4 +12,4 @@ Em **Finanças**, usa **Exportar carreira** para preservar o progresso. Mantém 
 
 Quando a publicação GitHub Pages concluir, o site estará em https://friserpt.github.io/touchline-demo/ . Este link não prova que a publicação já terminou.
 
-A publicação original ficou em updating_pages até exceder o limite de tempo. Isso é um bloqueio do serviço de publicação; o ficheiro HTML oferece outra forma de experimentar o jogo.
+A edição inclui estádio animado, decisões ao intervalo, progressão, equipamentos, patrocínios e aceleradores com TC de jogo. Não processa pagamentos reais; a carreira local não é uma carteira de moeda paga.
