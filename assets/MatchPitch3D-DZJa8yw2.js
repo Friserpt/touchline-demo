@@ -1,4 +1,4 @@
-import{r as Ce,g as Cy,j as G,k as Nf}from"./index-Dj9NwDso.js";/**
+import{r as Ce,g as Cy,j as G,l as Nf}from"./index-CXSOtKV6.js";/**
  * @license
  * Copyright 2010-2025 Three.js Authors
  * SPDX-License-Identifier: MIT
