@@ -14,3 +14,5 @@ Normalized to 1024x1024 WebP; source identifiers and SHA256 are recorded in src/
 App icons (180/192/512 PNG): raster exports of the original Touchline vector mark, generated locally with scripts/create-app-icons.mjs. No external artwork.
 
 Player photographs v0.16.1: 16 individually credited CC BY / CC BY-SA photographs. Per-file authors, sources, license URLs, modifications and SHA256 are listed in THIRD_PARTY_NOTICES and in-game Preferences. No endorsement is implied. The photo may show a different season or kit from the historical game archive.
+
+Player photographs v0.17: 24 athletes with admitted photographs. Eight additions and two superseding files; source-declared photo year is recorded and shown. Images are not all from 2026; no current-kit identity retouching was performed. Current per-file license notices take precedence over the historical collection counts above.

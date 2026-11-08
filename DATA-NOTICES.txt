@@ -1,3 +1,648 @@
+TOUCHLINE — FOOTBALL REFERENCE DATA
+
+2026/27 snapshot retrieved 2026-11-08. No live transfer connection. Existing saved careers retain their own reference data.
+
+English factual roster fields: vaastav/Fantasy-Premier-League, data/2026-27/players_raw.csv and teams.csv, repository MIT. Only selectable football-player records retained; position groups adapted to Touchline. No FPL photographs or logos used.
+https://github.com/vaastav/Fantasy-Premier-League
+
+Fixtures and club identities: openfootball/football.json, 2026-27, CC0-1.0. Real scores were discarded. Calendar is an initial-season reference, not a live fixture feed.
+https://github.com/openfootball/football.json
+
+Portuguese squad/birth-date factual extraction: Wikipedia contributors, CC BY-SA 4.0. Revision URLs below identify the consulted pages and their contributor history. Structured reference extraction adapted to Touchline position groups; unknown ages remain null. This reference dataset is available under the stated source terms; game source code is separate. No official scouting ratings or market values are copied.
+https://creativecommons.org/licenses/by-sa/4.0/
+
+Sport Lisboa e Benfica: https://en.wikipedia.org/w/index.php?oldid=1384075325
+Sporting Clube de Portugal: https://en.wikipedia.org/w/index.php?oldid=1383938617
+Académico de Viseu FC: https://en.wikipedia.org/w/index.php?oldid=1382956231
+CD Nacional: https://en.wikipedia.org/w/index.php?oldid=1378621856
+CD Santa Clara: https://en.wikipedia.org/w/index.php?oldid=1383185957
+CF Estrela da Amadora: https://en.wikipedia.org/w/index.php?oldid=1382248519
+CS Marítimo: https://en.wikipedia.org/w/index.php?oldid=1381186296
+Casa Pia AC: https://en.wikipedia.org/w/index.php?oldid=1381922986
+FC Alverca: https://en.wikipedia.org/w/index.php?oldid=1383371132
+FC Arouca: https://en.wikipedia.org/w/index.php?oldid=1382694308
+FC Famalicão: https://en.wikipedia.org/w/index.php?oldid=1384313171
+FC Porto: https://en.wikipedia.org/w/index.php?oldid=1384294513
+GD Estoril Praia: https://en.wikipedia.org/w/index.php?oldid=1384170557
+Gil Vicente FC: https://en.wikipedia.org/w/index.php?oldid=1384348383
+Moreirense FC: https://en.wikipedia.org/w/index.php?oldid=1380093716
+Rio Ave FC: https://en.wikipedia.org/w/index.php?oldid=1384273829
+Sporting Clube de Braga: https://en.wikipedia.org/w/index.php?oldid=1383185598
+Vitória Guimarães: https://en.wikipedia.org/w/index.php?oldid=1384280915
+
+Birth-date/position biography revisions:
+Anatoliy Trubin: https://en.wikipedia.org/w/index.php?oldid=1383971519
+Clément Lenglet: https://en.wikipedia.org/w/index.php?oldid=1383483737
+Alessandro Circati: https://en.wikipedia.org/w/index.php?oldid=1384036489
+Enzo Barrenechea: https://en.wikipedia.org/w/index.php?oldid=1383133033
+Alexander Bah: https://en.wikipedia.org/w/index.php?oldid=1382200689
+Fredrik Aursnes: https://en.wikipedia.org/w/index.php?oldid=1383972042
+Heorhiy Sudakov: https://en.wikipedia.org/w/index.php?oldid=1384056334
+Dodi Lukébakio: https://en.wikipedia.org/w/index.php?oldid=1384458313
+Jakub Kamiński: https://en.wikipedia.org/w/index.php?oldid=1382222370
+Vangelis Pavlidis: https://en.wikipedia.org/w/index.php?oldid=1384073620
+Manu Silva: https://en.wikipedia.org/w/index.php?oldid=1382965201
+Leandro Barreiro: https://en.wikipedia.org/w/index.php?oldid=1382809022
+Andreas Schjelderup: https://en.wikipedia.org/w/index.php?oldid=1383971965
+Jhon Durán: https://en.wikipedia.org/w/index.php?oldid=1383971886
+Samuel Soares: https://en.wikipedia.org/w/index.php?oldid=1383483616
+Gianluca Prestianni: https://en.wikipedia.org/w/index.php?oldid=1381497432
+Samuel Dahl: https://en.wikipedia.org/w/index.php?oldid=1383483870
+Rafa Silva: https://en.wikipedia.org/w/index.php?oldid=1384074680
+Claudio Echeverri: https://en.wikipedia.org/w/index.php?oldid=1384339615
+Gabriel Índio: https://en.wikipedia.org/w/index.php?oldid=1383402480
+Souffian El Karouani: https://en.wikipedia.org/w/index.php?oldid=1382930841
+João Palhinha: https://en.wikipedia.org/w/index.php?oldid=1383972092
+Tomás Araújo: https://en.wikipedia.org/w/index.php?oldid=1382894053
+Diogo Ferreira (footballer, born 2007): https://en.wikipedia.org/w/index.php?oldid=1382420143
+Daniel Banjaqui: https://en.wikipedia.org/w/index.php?oldid=1382805033
+José Neto (footballer, born 2008): https://en.wikipedia.org/w/index.php?oldid=1382808187
+Anísio Cabral: https://en.wikipedia.org/w/index.php?oldid=1382892692
+Rui Silva (footballer, born 1994): https://en.wikipedia.org/w/index.php?oldid=1383624324
+Silas Andersen: https://en.wikipedia.org/w/index.php?oldid=1384087958
+Sergi Altimira: https://en.wikipedia.org/w/index.php?oldid=1383165322
+Zeno Debast: https://en.wikipedia.org/w/index.php?oldid=1382899564
+Fotis Ioannidis: https://en.wikipedia.org/w/index.php?oldid=1383273783
+João Simões (footballer, born 2007): https://en.wikipedia.org/w/index.php?oldid=1382369803
+Rafael Nel: https://en.wikipedia.org/w/index.php?oldid=1382391486
+Geny Catamo: https://en.wikipedia.org/w/index.php?oldid=1382816420
+Nuno Santos (footballer, born 1995): https://en.wikipedia.org/w/index.php?oldid=1383411934
+João Virgínia: https://en.wikipedia.org/w/index.php?oldid=1382855557
+Georgios Vagiannidis: https://en.wikipedia.org/w/index.php?oldid=1382844079
+Giorgi Kochorashvili: https://en.wikipedia.org/w/index.php?oldid=1382844836
+Rodrigo Zalazar: https://en.wikipedia.org/w/index.php?oldid=1383345923
+Maximiliano Araújo: https://en.wikipedia.org/w/index.php?oldid=1382381566
+Pedro Lima (footballer, born 2003): https://en.wikipedia.org/w/index.php?oldid=1382792349
+Iván Fresneda: https://en.wikipedia.org/w/index.php?oldid=1383272502
+Gonçalo Inácio: https://en.wikipedia.org/w/index.php?oldid=1384388940
+Ousmane Diomande: https://en.wikipedia.org/w/index.php?oldid=1384163189
+Jesse Derry: https://en.wikipedia.org/w/index.php?oldid=1382807850
+Luis Guilherme: https://en.wikipedia.org/w/index.php?oldid=1383273105
+Diego Callai: https://en.wikipedia.org/w/index.php?oldid=1383130710
+Ibrahima Ba (footballer, born 2005): https://en.wikipedia.org/w/index.php?oldid=1382951334
+Flávio Gonçalves: https://en.wikipedia.org/w/index.php?oldid=1382806294
+Eduardo Quaresma: https://en.wikipedia.org/w/index.php?oldid=1384388933
+Issa Doumbia (footballer): https://en.wikipedia.org/w/index.php?oldid=1383713242
+Koba Koindredi: https://en.wikipedia.org/w/index.php?oldid=1383170262
+Luis Suárez (Colombian footballer): https://en.wikipedia.org/w/index.php?oldid=1384364848
+Francisco Silva (footballer, born 2005): https://en.wikipedia.org/w/index.php?oldid=1382841824
+Marcos Lavín: https://en.wikipedia.org/w/index.php?oldid=1382237127
+Nikos Michelis: https://en.wikipedia.org/w/index.php?oldid=1382741523
+Miguel Ángel Brau: https://en.wikipedia.org/w/index.php?oldid=1383303391
+Pedro Barcelos: https://en.wikipedia.org/w/index.php?oldid=1383329056
+André Ceitil: https://en.wikipedia.org/w/index.php?oldid=1383176951
+Luís Silva (footballer, born 1992): https://en.wikipedia.org/w/index.php?oldid=1382728054
+Cihan Kahraman: https://en.wikipedia.org/w/index.php?oldid=1383126899
+Mohamed Bouldini: https://en.wikipedia.org/w/index.php?oldid=1383307759
+Álvaro Zamora: https://en.wikipedia.org/w/index.php?oldid=1382663544
+Juan Soriano (footballer): https://en.wikipedia.org/w/index.php?oldid=1382689157
+Soufiane Messeguem: https://en.wikipedia.org/w/index.php?oldid=1382399622
+Valery Fernández: https://en.wikipedia.org/w/index.php?oldid=1383418803
+Cristian Ferreira: https://en.wikipedia.org/w/index.php?oldid=1382207898
+Tomás Domingos: https://en.wikipedia.org/w/index.php?oldid=1383108351
+Nils Mortimer: https://en.wikipedia.org/w/index.php?oldid=1382386714
+André Clóvis: https://en.wikipedia.org/w/index.php?oldid=1383176952
+Anthony Correia (footballer, born 1999): https://en.wikipedia.org/w/index.php?oldid=1383122539
+Alejandro Mestanza: https://en.wikipedia.org/w/index.php?oldid=1383386046
+Robinho (footballer, born 1997): https://en.wikipedia.org/w/index.php?oldid=1382256880
+Paulinho (footballer, born 1999): https://en.wikipedia.org/w/index.php?oldid=1382187373
+Hugo Gambor: https://en.wikipedia.org/w/index.php?oldid=1383235462
+Renato Marin: https://en.wikipedia.org/w/index.php?oldid=1383516480
+Daniel de la Cruz: https://en.wikipedia.org/w/index.php?oldid=1382600280
+Ulisses (footballer, born 1999): https://en.wikipedia.org/w/index.php?oldid=1383111348
+José Gomes (footballer, born 1996): https://en.wikipedia.org/w/index.php?oldid=1382754995
+Matheus Dias: https://en.wikipedia.org/w/index.php?oldid=1383410692
+Markus Jensen: https://en.wikipedia.org/w/index.php?oldid=1382179516
+Miguel Baeza (footballer): https://en.wikipedia.org/w/index.php?oldid=1382633644
+Allen Obando: https://en.wikipedia.org/w/index.php?oldid=1382352016
+Daniel Júnior: https://en.wikipedia.org/w/index.php?oldid=1383128498
+Stavros Gavriil: https://en.wikipedia.org/w/index.php?oldid=1382399773
+Song Min-kyu (footballer): https://en.wikipedia.org/w/index.php?oldid=1383292968
+João Gonçalves (footballer, born 2000): https://en.wikipedia.org/w/index.php?oldid=1382224589
+Ivanildo Fernandes: https://en.wikipedia.org/w/index.php?oldid=1382915662
+Chiheb Labidi: https://en.wikipedia.org/w/index.php?oldid=1382766416
+Fernando Nava: https://en.wikipedia.org/w/index.php?oldid=1382922788
+Matchoi Djaló: https://en.wikipedia.org/w/index.php?oldid=1382681292
+William Kokolo: https://en.wikipedia.org/w/index.php?oldid=1383168438
+Filipe Soares (footballer, born 1999): https://en.wikipedia.org/w/index.php?oldid=1382753199
+Mateus Iseppe: https://en.wikipedia.org/w/index.php?oldid=1383410626
+Joel Silva (footballer, born 2003): https://en.wikipedia.org/w/index.php?oldid=1383051696
+Igor Liziero: https://en.wikipedia.org/w/index.php?oldid=1382775634
+Martim Gustavo: https://en.wikipedia.org/w/index.php?oldid=1383070942
+Danel Dongmo: https://en.wikipedia.org/w/index.php?oldid=1382767682
+Francisco Gonçalves: https://en.wikipedia.org/w/index.php?oldid=1382948010
+Léo Santos: https://en.wikipedia.org/w/index.php?oldid=1382670408
+Zé Vitor (footballer, born 2001): https://en.wikipedia.org/w/index.php?oldid=1383118252
+Wesley Gasolina: https://en.wikipedia.org/w/index.php?oldid=1382759554
+Josué (footballer, born 2005): https://en.wikipedia.org/w/index.php?oldid=1382443111
+Lucas França (footballer): https://en.wikipedia.org/w/index.php?oldid=1382963252
+Henrique Silva (footballer, born 2005): https://en.wikipedia.org/w/index.php?oldid=1383138388
+Pedro Pacheco (footballer, born 1997): https://en.wikipedia.org/w/index.php?oldid=1382731705
+Guilherme Romão: https://en.wikipedia.org/w/index.php?oldid=1382217836
+Pedro Ferreira (footballer, born 1998): https://en.wikipedia.org/w/index.php?oldid=1382747035
+Fernando (footballer, born 2005): https://en.wikipedia.org/w/index.php?oldid=1383169808
+Djé Tavares: https://en.wikipedia.org/w/index.php?oldid=1382836310
+Gonçalo Paciência: https://en.wikipedia.org/w/index.php?oldid=1382753611
+Brenner Lucas: https://en.wikipedia.org/w/index.php?oldid=1382938283
+Welinton (footballer, born 1999): https://en.wikipedia.org/w/index.php?oldid=1383173683
+Neneca (footballer, born 2003): https://en.wikipedia.org/w/index.php?oldid=1382973008
+João Vasconcelos: https://en.wikipedia.org/w/index.php?oldid=1382584519
+Ythallo: https://en.wikipedia.org/w/index.php?oldid=1383168869
+Tiago Ribeiro (footballer, born 2002): https://en.wikipedia.org/w/index.php?oldid=1382749553
+Emanuel Moreira: https://en.wikipedia.org/w/index.php?oldid=1383185771
+Vitinho (footballer, born February 2004): https://en.wikipedia.org/w/index.php?oldid=1383168023
+MT (footballer): https://en.wikipedia.org/w/index.php?oldid=1382972388
+Dani Borges: https://en.wikipedia.org/w/index.php?oldid=1382208350
+Lucas Soares: https://en.wikipedia.org/w/index.php?oldid=1382963335
+Vinícius Lopes (footballer, born 1999): https://en.wikipedia.org/w/index.php?oldid=1382984853
+Léo Jacó: https://en.wikipedia.org/w/index.php?oldid=1382961780
+Lucas Mincarelli: https://en.wikipedia.org/w/index.php?oldid=1383150406
+Bernardo Schappo: https://en.wikipedia.org/w/index.php?oldid=1383179098
+Stefan Leković: https://en.wikipedia.org/w/index.php?oldid=1382675834
+Kevin Höög Jansson: https://en.wikipedia.org/w/index.php?oldid=1383270800
+Robinho (footballer, born 2002): https://en.wikipedia.org/w/index.php?oldid=1382249893
+Ianis Stoica: https://en.wikipedia.org/w/index.php?oldid=1384431294
+Rodrigo Dudok: https://en.wikipedia.org/w/index.php?oldid=1382190009
+Lovro Zvonarek: https://en.wikipedia.org/w/index.php?oldid=1384370760
+Jefferson Encada: https://en.wikipedia.org/w/index.php?oldid=1382777825
+Joan Jordán: https://en.wikipedia.org/w/index.php?oldid=1383423194
+Max Scholze: https://en.wikipedia.org/w/index.php?oldid=1383288163
+Léo Linck: https://en.wikipedia.org/w/index.php?oldid=1382232290
+Tom Moustier: https://en.wikipedia.org/w/index.php?oldid=1382250559
+Jeremy Arévalo: https://en.wikipedia.org/w/index.php?oldid=1382737946
+Luan Patrick: https://en.wikipedia.org/w/index.php?oldid=1383423676
+Leandro Antonetti: https://en.wikipedia.org/w/index.php?oldid=1383041594
+Eddy Doué: https://en.wikipedia.org/w/index.php?oldid=1383131952
+René Mitongo: https://en.wikipedia.org/w/index.php?oldid=1383173295
+Diogo Pinto (footballer, born 2004): https://en.wikipedia.org/w/index.php?oldid=1382692188
+Rafa Soares: https://en.wikipedia.org/w/index.php?oldid=1382882484
+Atanas Chernev: https://en.wikipedia.org/w/index.php?oldid=1382664029
+Abraham Marcus: https://en.wikipedia.org/w/index.php?oldid=1382760063
+Gonçalo Tabuaço: https://en.wikipedia.org/w/index.php?oldid=1382737250
+Igor Julião: https://en.wikipedia.org/w/index.php?oldid=1382775626
+Nathanael Ogbeta: https://en.wikipedia.org/w/index.php?oldid=1382818802
+Rafael Fernandes (footballer): https://en.wikipedia.org/w/index.php?oldid=1382644510
+Nilton Varela: https://en.wikipedia.org/w/index.php?oldid=1383004235
+Rodrigo Andrade (footballer, born 2001): https://en.wikipedia.org/w/index.php?oldid=1383093150
+Enrique Peña Zauner: https://en.wikipedia.org/w/index.php?oldid=1382036796
+Maxime Dominguez: https://en.wikipedia.org/w/index.php?oldid=1382632455
+José Melro: https://en.wikipedia.org/w/index.php?oldid=1383423323
+Martín Tejón: https://en.wikipedia.org/w/index.php?oldid=1383153500
+Simo Bouzaidi: https://en.wikipedia.org/w/index.php?oldid=1382733288
+Mons Bassouamina: https://en.wikipedia.org/w/index.php?oldid=1382672521
+Alfonso Pastor: https://en.wikipedia.org/w/index.php?oldid=1383397998
+Raphael Guzzo: https://en.wikipedia.org/w/index.php?oldid=1384443075
+Tomás Tavares: https://en.wikipedia.org/w/index.php?oldid=1383376817
+Adrián Butzke: https://en.wikipedia.org/w/index.php?oldid=1383174653
+Vladan Danilović: https://en.wikipedia.org/w/index.php?oldid=1384445269
+Francisco Gomes (footballer): https://en.wikipedia.org/w/index.php?oldid=1383135034
+Ibrahim Alani: https://en.wikipedia.org/w/index.php?oldid=1384438169
+Gábor Szalai: https://en.wikipedia.org/w/index.php?oldid=1382772600
+Paulo Henrique (Portuguese footballer): https://en.wikipedia.org/w/index.php?oldid=1382741983
+Yellu Santiago: https://en.wikipedia.org/w/index.php?oldid=1382406080
+Samuel Bamba: https://en.wikipedia.org/w/index.php?oldid=1383007552
+Fran Vieites: https://en.wikipedia.org/w/index.php?oldid=1382608114
+Kimiss Zavala: https://en.wikipedia.org/w/index.php?oldid=1382782731
+Bryan Limbombe: https://en.wikipedia.org/w/index.php?oldid=1383399289
+Romain Correia: https://en.wikipedia.org/w/index.php?oldid=1382588545
+Israel Isaac Ayuma: https://en.wikipedia.org/w/index.php?oldid=1382749817
+Maurice Boakye: https://en.wikipedia.org/w/index.php?oldid=1383154512
+Patrick Sequeira: https://en.wikipedia.org/w/index.php?oldid=1382741907
+Khaly: https://en.wikipedia.org/w/index.php?oldid=1382782492
+João Goulart (footballer): https://en.wikipedia.org/w/index.php?oldid=1383406187
+Abdu Conté: https://en.wikipedia.org/w/index.php?oldid=1382136456
+Gabi (footballer, born 2000): https://en.wikipedia.org/w/index.php?oldid=1381922876
+Henrique Araújo: https://en.wikipedia.org/w/index.php?oldid=1382737450
+Rochinha (Portuguese footballer): https://en.wikipedia.org/w/index.php?oldid=1384335699
+Mo Salah (footballer, born 2004): https://en.wikipedia.org/w/index.php?oldid=1382383598
+Selvi Clua: https://en.wikipedia.org/w/index.php?oldid=1383416415
+Evans Maurin: https://en.wikipedia.org/w/index.php?oldid=1382251354
+André Geraldes: https://en.wikipedia.org/w/index.php?oldid=1383398209
+Alassana Jatta: https://en.wikipedia.org/w/index.php?oldid=1382351412
+Daniel Azevedo: https://en.wikipedia.org/w/index.php?oldid=1382720010
+Sebastián Pérez (footballer, born 1993): https://en.wikipedia.org/w/index.php?oldid=1382742954
+Kaique Rocha: https://en.wikipedia.org/w/index.php?oldid=1382170649
+Jérémy Livolant: https://en.wikipedia.org/w/index.php?oldid=1382807825
+André Gomes (footballer, born 2004): https://en.wikipedia.org/w/index.php?oldid=1382023067
+David Sousa (footballer, born 2001): https://en.wikipedia.org/w/index.php?oldid=1383032326
+Lipe (footballer): https://en.wikipedia.org/w/index.php?oldid=1383064550
+João Rego: https://en.wikipedia.org/w/index.php?oldid=1382924742
+Pedro Rosas: https://en.wikipedia.org/w/index.php?oldid=1383085351
+Benjamin Pauwels: https://en.wikipedia.org/w/index.php?oldid=1382763933
+Lawrence Ofori: https://en.wikipedia.org/w/index.php?oldid=1383275979
+Cassiano (footballer, born 1989): https://en.wikipedia.org/w/index.php?oldid=1382939154
+João Pedro (footballer, born 2005): https://en.wikipedia.org/w/index.php?oldid=1382167014
+Noah Raveyre: https://en.wikipedia.org/w/index.php?oldid=1382757362
+Nabil Touaizi: https://en.wikipedia.org/w/index.php?oldid=1382681720
+Julián Martínez (footballer): https://en.wikipedia.org/w/index.php?oldid=1382808302
+Yaya Bojang: https://en.wikipedia.org/w/index.php?oldid=1382323542
+Sabit Abdulai: https://en.wikipedia.org/w/index.php?oldid=1382190891
+Davy Gui: https://en.wikipedia.org/w/index.php?oldid=1382942698
+André Vidigal: https://en.wikipedia.org/w/index.php?oldid=1382593181
+Vivaldo Semedo: https://en.wikipedia.org/w/index.php?oldid=1382715337
+Chiquinho (footballer, born 2000): https://en.wikipedia.org/w/index.php?oldid=1384335688
+Cédric Nuozzi: https://en.wikipedia.org/w/index.php?oldid=1382831208
+Isaac James (footballer): https://en.wikipedia.org/w/index.php?oldid=1382697653
+Steven Baseya: https://en.wikipedia.org/w/index.php?oldid=1382747476
+Samy Merheg: https://en.wikipedia.org/w/index.php?oldid=1382913188
+Dawda Camara: https://en.wikipedia.org/w/index.php?oldid=1382921472
+Diogo Spencer: https://en.wikipedia.org/w/index.php?oldid=1382581970
+Sergi Gómez: https://en.wikipedia.org/w/index.php?oldid=1383098278
+Figueiredo (footballer, born 2001): https://en.wikipedia.org/w/index.php?oldid=1382582729
+André Paulo: https://en.wikipedia.org/w/index.php?oldid=1383176976
+Mofe Jemide: https://en.wikipedia.org/w/index.php?oldid=1382453723
+Ian Luccas: https://en.wikipedia.org/w/index.php?oldid=1383172299
+Matheus França: https://en.wikipedia.org/w/index.php?oldid=1382671779
+Toni Tamarit: https://en.wikipedia.org/w/index.php?oldid=1382403035
+Matheus Mendes: https://en.wikipedia.org/w/index.php?oldid=1383072345
+Bastien Meupiyou: https://en.wikipedia.org/w/index.php?oldid=1382025749
+Rayan Lucas: https://en.wikipedia.org/w/index.php?oldid=1382883321
+Francisco Chissumba: https://en.wikipedia.org/w/index.php?oldid=1382694473
+Jhonatan (footballer, born 1991): https://en.wikipedia.org/w/index.php?oldid=1383141956
+Zé Rafael: https://en.wikipedia.org/w/index.php?oldid=1383388713
+Jakub Vinarčík: https://en.wikipedia.org/w/index.php?oldid=1382807560
+Leo Shahar: https://en.wikipedia.org/w/index.php?oldid=1382755771
+José Fontán: https://en.wikipedia.org/w/index.php?oldid=1382168649
+Diogo Monteiro: https://en.wikipedia.org/w/index.php?oldid=1383799816
+Boris Popović: https://en.wikipedia.org/w/index.php?oldid=1382744620
+Espen van Ee: https://en.wikipedia.org/w/index.php?oldid=1383133466
+Naïs Djouahra: https://en.wikipedia.org/w/index.php?oldid=1383311516
+Taichi Fukui: https://en.wikipedia.org/w/index.php?oldid=1382654410
+Fally Mayulu: https://en.wikipedia.org/w/index.php?oldid=1383401929
+Pablo Gozálbez: https://en.wikipedia.org/w/index.php?oldid=1382186486
+Miguel Puche: https://en.wikipedia.org/w/index.php?oldid=1383075706
+Ignacio de Arruabarrena: https://en.wikipedia.org/w/index.php?oldid=1384163200
+Lee Hyun-ju (footballer): https://en.wikipedia.org/w/index.php?oldid=1383371062
+Javi Sánchez (footballer): https://en.wikipedia.org/w/index.php?oldid=1382777530
+Iván Barbero: https://en.wikipedia.org/w/index.php?oldid=1383562217
+Orest Lebedenko: https://en.wikipedia.org/w/index.php?oldid=1382640305
+Alfonso Trezza: https://en.wikipedia.org/w/index.php?oldid=1383121187
+Gabriel Rukavina: https://en.wikipedia.org/w/index.php?oldid=1382748364
+Mateo Flores (footballer): https://en.wikipedia.org/w/index.php?oldid=1382238970
+Dylan Nandín: https://en.wikipedia.org/w/index.php?oldid=1382769667
+Brian Mansilla: https://en.wikipedia.org/w/index.php?oldid=1383027600
+Tiago Esgaio: https://en.wikipedia.org/w/index.php?oldid=1383228071
+Mario Climent: https://en.wikipedia.org/w/index.php?oldid=1383291083
+Pedro Santos (footballer, born 2000): https://en.wikipedia.org/w/index.php?oldid=1382458762
+Ivan Zlobin: https://en.wikipedia.org/w/index.php?oldid=1383422804
+Gustavo Garcia (footballer, born 2002): https://en.wikipedia.org/w/index.php?oldid=1384437660
+Leonardo Realpe: https://en.wikipedia.org/w/index.php?oldid=1382232474
+Finn van Breemen: https://en.wikipedia.org/w/index.php?oldid=1383402189
+Leny Meyer: https://en.wikipedia.org/w/index.php?oldid=1383799784
+Tom van de Looi: https://en.wikipedia.org/w/index.php?oldid=1382747591
+Sorriso (footballer, born 2001): https://en.wikipedia.org/w/index.php?oldid=1382981769
+Marcos Peña (footballer): https://en.wikipedia.org/w/index.php?oldid=1383152690
+Umar Abubakar: https://en.wikipedia.org/w/index.php?oldid=1383111367
+Pedro Santos (footballer, born 2003): https://en.wikipedia.org/w/index.php?oldid=1382065261
+Óscar Aranda: https://en.wikipedia.org/w/index.php?oldid=1382387978
+Mathias De Amorim: https://en.wikipedia.org/w/index.php?oldid=1382631540
+Víctor Rofino: https://en.wikipedia.org/w/index.php?oldid=1383173652
+Rodrigo Pinheiro: https://en.wikipedia.org/w/index.php?oldid=1382812538
+Roméo Beney: https://en.wikipedia.org/w/index.php?oldid=1382190206
+Paulo Moreira: https://en.wikipedia.org/w/index.php?oldid=1382187408
+Tamás Szűcs (footballer, born 2005): https://en.wikipedia.org/w/index.php?oldid=1383424977
+Gil Dias: https://en.wikipedia.org/w/index.php?oldid=1382610544
+Mathis Jangéal: https://en.wikipedia.org/w/index.php?oldid=1383410777
+Lazar Carević: https://en.wikipedia.org/w/index.php?oldid=1382174592
+Pedro Bondo: https://en.wikipedia.org/w/index.php?oldid=1382975897
+Vojin Serafimović: https://en.wikipedia.org/w/index.php?oldid=1382896223
+Patricio Salas (footballer, born 2004): https://en.wikipedia.org/w/index.php?oldid=1383174177
+Georgios Koutsias: https://en.wikipedia.org/w/index.php?oldid=1382821813
+Jakub Kiwior: https://en.wikipedia.org/w/index.php?oldid=1383791455
+Jan Bednarek: https://en.wikipedia.org/w/index.php?oldid=1384084035
+Chris Smalling: https://en.wikipedia.org/w/index.php?oldid=1382864126
+William Gomes: https://en.wikipedia.org/w/index.php?oldid=1382909127
+Victor Froholdt: https://en.wikipedia.org/w/index.php?oldid=1383791615
+Samu Aghehowa: https://en.wikipedia.org/w/index.php?oldid=1383791813
+Gabri Veiga: https://en.wikipedia.org/w/index.php?oldid=1383791554
+Pepê (footballer, born 1997): https://en.wikipedia.org/w/index.php?oldid=1383791683
+Zaidu Sanusi: https://en.wikipedia.org/w/index.php?oldid=1383790216
+Pablo Rosario: https://en.wikipedia.org/w/index.php?oldid=1383737846
+Cláudio Ramos (footballer): https://en.wikipedia.org/w/index.php?oldid=1382919193
+Vasco Sousa (footballer): https://en.wikipedia.org/w/index.php?oldid=1382749623
+Hwang In-beom: https://en.wikipedia.org/w/index.php?oldid=1383850850
+Borja Sainz: https://en.wikipedia.org/w/index.php?oldid=1383777401
+Nehuén Pérez: https://en.wikipedia.org/w/index.php?oldid=1382917429
+André Silva (footballer, born 1995): https://en.wikipedia.org/w/index.php?oldid=1383221903
+Alberto Costa (footballer, born 2003): https://en.wikipedia.org/w/index.php?oldid=1384271259
+Dominik Prpić: https://en.wikipedia.org/w/index.php?oldid=1382359839
+Alan Varela: https://en.wikipedia.org/w/index.php?oldid=1383120122
+João Costa (footballer, born 1996): https://en.wikipedia.org/w/index.php?oldid=1382754710
+Santiago Giménez: https://en.wikipedia.org/w/index.php?oldid=1383791976
+Souza (footballer, born 2006): https://en.wikipedia.org/w/index.php?oldid=1383100648
+Gabriel Mec: https://en.wikipedia.org/w/index.php?oldid=1382157010
+Seko Fofana: https://en.wikipedia.org/w/index.php?oldid=1384069731
+João Afonso (footballer, born 2007): https://en.wikipedia.org/w/index.php?oldid=1382618534
+Martim Fernandes: https://en.wikipedia.org/w/index.php?oldid=1382810026
+Francisco Moura: https://en.wikipedia.org/w/index.php?oldid=1382841762
+Oskar Pietuszewski: https://en.wikipedia.org/w/index.php?oldid=1384080425
+Diogo Costa: https://en.wikipedia.org/w/index.php?oldid=1384380378
+Joel Robles: https://en.wikipedia.org/w/index.php?oldid=1383261340
+Ricard Sánchez: https://en.wikipedia.org/w/index.php?oldid=1382758096
+Fernando Medrano (footballer): https://en.wikipedia.org/w/index.php?oldid=1383209463
+Ferro (footballer): https://en.wikipedia.org/w/index.php?oldid=1382607686
+Antef Tsoungui: https://en.wikipedia.org/w/index.php?oldid=1382678108
+Xavi Sintes: https://en.wikipedia.org/w/index.php?oldid=1382715992
+André Lacximicant: https://en.wikipedia.org/w/index.php?oldid=1383121848
+Xeka: https://en.wikipedia.org/w/index.php?oldid=1383425271
+Axel Camblan: https://en.wikipedia.org/w/index.php?oldid=1382025165
+Jordan Holsgrove: https://en.wikipedia.org/w/index.php?oldid=1382699609
+Nail Omerović: https://en.wikipedia.org/w/index.php?oldid=1382906243
+João Carvalho (footballer, born 1997): https://en.wikipedia.org/w/index.php?oldid=1382754708
+Yanis Begraoui: https://en.wikipedia.org/w/index.php?oldid=1384445638
+Ismael Sierra: https://en.wikipedia.org/w/index.php?oldid=1383240807
+Martin Turk: https://en.wikipedia.org/w/index.php?oldid=1383376684
+Peixinho (Portuguese footballer): https://en.wikipedia.org/w/index.php?oldid=1383173211
+Tiago Parente (footballer, born 2004): https://en.wikipedia.org/w/index.php?oldid=1382402243
+Roko Jurišić: https://en.wikipedia.org/w/index.php?oldid=1382711325
+Pedro Carvalho (footballer): https://en.wikipedia.org/w/index.php?oldid=1383160946
+Stelios Andreou: https://en.wikipedia.org/w/index.php?oldid=1382823452
+Samuel Amissah: https://en.wikipedia.org/w/index.php?oldid=1383023028
+Israel Salazar (footballer): https://en.wikipedia.org/w/index.php?oldid=1383172339
+Jordan Arnolin: https://en.wikipedia.org/w/index.php?oldid=1384165926
+Fletcher Smythe-Lowe: https://en.wikipedia.org/w/index.php?oldid=1383037208
+Milan Robin: https://en.wikipedia.org/w/index.php?oldid=1382927629
+Tiago Brito (footballer): https://en.wikipedia.org/w/index.php?oldid=1383174202
+Fabrício Garcia: https://en.wikipedia.org/w/index.php?oldid=1382946740
+Rafik Guitane: https://en.wikipedia.org/w/index.php?oldid=1383336729
+Khayon Edwards: https://en.wikipedia.org/w/index.php?oldid=1382229847
+André Picornell: https://en.wikipedia.org/w/index.php?oldid=1382750796
+José Silva (footballer, born 2005): https://en.wikipedia.org/w/index.php?oldid=1382620608
+Antonio Espigares: https://en.wikipedia.org/w/index.php?oldid=1382024128
+Marvin Elimbi: https://en.wikipedia.org/w/index.php?oldid=1383153553
+Zé Carlos (footballer, born 2001): https://en.wikipedia.org/w/index.php?oldid=1383173759
+Tidjany Touré: https://en.wikipedia.org/w/index.php?oldid=1383106723
+Mohamed Bamba (footballer, born 2004): https://en.wikipedia.org/w/index.php?oldid=1382182756
+Walace França: https://en.wikipedia.org/w/index.php?oldid=1382473235
+Santi García: https://en.wikipedia.org/w/index.php?oldid=1383096951
+Joelson Fernandes: https://en.wikipedia.org/w/index.php?oldid=1382754794
+Andreas Lausen: https://en.wikipedia.org/w/index.php?oldid=1382762066
+Sergio Bermejo: https://en.wikipedia.org/w/index.php?oldid=1383359455
+Guilherme Gomes: https://en.wikipedia.org/w/index.php?oldid=1382753667
+Héctor Hernández (footballer, born 1995): https://en.wikipedia.org/w/index.php?oldid=1382774661
+Weverson (footballer, born 2000): https://en.wikipedia.org/w/index.php?oldid=1382801572
+Agustín Moreira (footballer): https://en.wikipedia.org/w/index.php?oldid=1383119615
+Lucão (footballer, born 2001): https://en.wikipedia.org/w/index.php?oldid=1382784551
+Martín Fernández (footballer, born 2003): https://en.wikipedia.org/w/index.php?oldid=1382704515
+Jonathan Buatu: https://en.wikipedia.org/w/index.php?oldid=1382619643
+David Moreira: https://en.wikipedia.org/w/index.php?oldid=1384451888
+Ricardo Esgaio: https://en.wikipedia.org/w/index.php?oldid=1382758108
+Murilo Costa: https://en.wikipedia.org/w/index.php?oldid=1383157043
+Diogo Prioste: https://en.wikipedia.org/w/index.php?oldid=1382752373
+Bassco Soyer: https://en.wikipedia.org/w/index.php?oldid=1382353752
+Samuel Portugal: https://en.wikipedia.org/w/index.php?oldid=1382979599
+Leandro Santos (footballer, born 2005): https://en.wikipedia.org/w/index.php?oldid=1382783686
+Manuel Mendonça: https://en.wikipedia.org/w/index.php?oldid=1382867866
+Mateja Stjepanović: https://en.wikipedia.org/w/index.php?oldid=1382869857
+Alexandre Parsemain: https://en.wikipedia.org/w/index.php?oldid=1382750522
+Kiko Bondoso: https://en.wikipedia.org/w/index.php?oldid=1383016659
+André Ferreira (footballer, born 1996): https://en.wikipedia.org/w/index.php?oldid=1383420700
+Álvaro Martínez (footballer, born 2002): https://en.wikipedia.org/w/index.php?oldid=1382202419
+Tiago Andrade: https://en.wikipedia.org/w/index.php?oldid=1382195440
+João Veloso: https://en.wikipedia.org/w/index.php?oldid=1382167054
+Rodri (footballer, born 2003): https://en.wikipedia.org/w/index.php?oldid=1383173335
+Nile John: https://en.wikipedia.org/w/index.php?oldid=1382823085
+Afonso Assis: https://en.wikipedia.org/w/index.php?oldid=1382591266
+Maracás (footballer): https://en.wikipedia.org/w/index.php?oldid=1383288057
+Francisco Domingues: https://en.wikipedia.org/w/index.php?oldid=1384436851
+Chipyoka Songa: https://en.wikipedia.org/w/index.php?oldid=1383183144
+Jimi Gower: https://en.wikipedia.org/w/index.php?oldid=1382955100
+Janderson (footballer, born 2005): https://en.wikipedia.org/w/index.php?oldid=1383049003
+Michael Dacosta: https://en.wikipedia.org/w/index.php?oldid=1383974447
+Gilberto Batista: https://en.wikipedia.org/w/index.php?oldid=1383042022
+Dinis Pinto: https://en.wikipedia.org/w/index.php?oldid=1383130972
+Koby Mottoh: https://en.wikipedia.org/w/index.php?oldid=1382173022
+Leonardo Vonić: https://en.wikipedia.org/w/index.php?oldid=1383408581
+Cezary Miszta: https://en.wikipedia.org/w/index.php?oldid=1383421200
+Zé Carlos (footballer, born 1998): https://en.wikipedia.org/w/index.php?oldid=1382406776
+Simón García: https://en.wikipedia.org/w/index.php?oldid=1382797145
+Andreas Ntoi: https://en.wikipedia.org/w/index.php?oldid=1382750813
+Nelson Abbey: https://en.wikipedia.org/w/index.php?oldid=1382730641
+Diogo Bezerra: https://en.wikipedia.org/w/index.php?oldid=1382210848
+Ryan Guilherme: https://en.wikipedia.org/w/index.php?oldid=1383164571
+Tamble Monteiro: https://en.wikipedia.org/w/index.php?oldid=1382194740
+Brandon Aguilera: https://en.wikipedia.org/w/index.php?oldid=1382821262
+Jalen Blesa: https://en.wikipedia.org/w/index.php?oldid=1383247500
+Julien Lomboto: https://en.wikipedia.org/w/index.php?oldid=1382957511
+Jakub Brabec: https://en.wikipedia.org/w/index.php?oldid=1383467683
+Marios Vrousai: https://en.wikipedia.org/w/index.php?oldid=1382379283
+Malik Sellouki: https://en.wikipedia.org/w/index.php?oldid=1383409651
+João Tomé: https://en.wikipedia.org/w/index.php?oldid=1382699256
+Radek Šiler: https://en.wikipedia.org/w/index.php?oldid=1383173264
+Kevin Chamorro: https://en.wikipedia.org/w/index.php?oldid=1382745684
+Francisco Petrasso: https://en.wikipedia.org/w/index.php?oldid=1382156368
+Pedro Amaral: https://en.wikipedia.org/w/index.php?oldid=1382880278
+Roland Galčík: https://en.wikipedia.org/w/index.php?oldid=1384443494
+Vitor Hugo (footballer, born 2001): https://en.wikipedia.org/w/index.php?oldid=1383381258
+Gustavo Mancha: https://en.wikipedia.org/w/index.php?oldid=1384272334
+Tamás Nikitscher: https://en.wikipedia.org/w/index.php?oldid=1383173555
+Georgios Liavas: https://en.wikipedia.org/w/index.php?oldid=1382364323
+Dario Špikić: https://en.wikipedia.org/w/index.php?oldid=1382834362
+Sebastian Clemmensen: https://en.wikipedia.org/w/index.php?oldid=1382650507
+Diogo Nascimento: https://en.wikipedia.org/w/index.php?oldid=1384272595
+Ennio van der Gouw: https://en.wikipedia.org/w/index.php?oldid=1383035726
+Víctor Gómez (footballer): https://en.wikipedia.org/w/index.php?oldid=1383111948
+Sikou Niakaté: https://en.wikipedia.org/w/index.php?oldid=1383842961
+Vitor Carvalho: https://en.wikipedia.org/w/index.php?oldid=1382312840
+Diogo Travassos: https://en.wikipedia.org/w/index.php?oldid=1382836198
+João Moutinho: https://en.wikipedia.org/w/index.php?oldid=1383951712
+Fran Navarro: https://en.wikipedia.org/w/index.php?oldid=1382915134
+Pau Víctor: https://en.wikipedia.org/w/index.php?oldid=1383951893
+Gabriel Silva (footballer, born March 2002): https://en.wikipedia.org/w/index.php?oldid=1382948544
+Tiago Sá: https://en.wikipedia.org/w/index.php?oldid=1382402261
+Gustaf Lagerbielke (footballer): https://en.wikipedia.org/w/index.php?oldid=1383226557
+Tommy Marqués: https://en.wikipedia.org/w/index.php?oldid=1383167412
+Jovan Milošević: https://en.wikipedia.org/w/index.php?oldid=1382858954
+Jonas Wind: https://en.wikipedia.org/w/index.php?oldid=1383041098
+Mario Dorgeles: https://en.wikipedia.org/w/index.php?oldid=1382905413
+Ricardo Horta: https://en.wikipedia.org/w/index.php?oldid=1383948286
+Sergio Barcia: https://en.wikipedia.org/w/index.php?oldid=1383040141
+Denis Huseinbašić: https://en.wikipedia.org/w/index.php?oldid=1383997196
+Bright Arrey-Mbi: https://en.wikipedia.org/w/index.php?oldid=1382870827
+Jean-Baptiste Gorby: https://en.wikipedia.org/w/index.php?oldid=1383141483
+Bernardo Fontes: https://en.wikipedia.org/w/index.php?oldid=1382937568
+Demir Ege Tıknaz: https://en.wikipedia.org/w/index.php?oldid=1383040724
+Adrian-Leon Barišić: https://en.wikipedia.org/w/index.php?oldid=1383947053
+Adrian Bajrami: https://en.wikipedia.org/w/index.php?oldid=1381522734
+Diego Rodrigues: https://en.wikipedia.org/w/index.php?oldid=1382835907
+João Aragão: https://en.wikipedia.org/w/index.php?oldid=1382754695
+Gabri Martínez: https://en.wikipedia.org/w/index.php?oldid=1383214123
+João Carvalho (footballer, born 2004): https://en.wikipedia.org/w/index.php?oldid=1382166882
+Miguel Maga (footballer, born 2002): https://en.wikipedia.org/w/index.php?oldid=1382382582
+Óscar Rivas (footballer): https://en.wikipedia.org/w/index.php?oldid=1383082528
+Ahmed Sidibé (footballer, born 2002): https://en.wikipedia.org/w/index.php?oldid=1383119753
+Matija Mitrović: https://en.wikipedia.org/w/index.php?oldid=1383072741
+Oumar Camara (footballer, born 2007): https://en.wikipedia.org/w/index.php?oldid=1383082827
+Gonçalo Nogueira: https://en.wikipedia.org/w/index.php?oldid=1382610980
+Arnel Jakupović: https://en.wikipedia.org/w/index.php?oldid=1383815565
+Alan (footballer, born 2000): https://en.wikipedia.org/w/index.php?oldid=1382717241
+Gustavo Silva (footballer, born 1999): https://en.wikipedia.org/w/index.php?oldid=1383226989
+João Mendes (footballer, born 2000): https://en.wikipedia.org/w/index.php?oldid=1382166937
+Yeimar Mosquera: https://en.wikipedia.org/w/index.php?oldid=1382802338
+Beni Mukendi: https://en.wikipedia.org/w/index.php?oldid=1382763880
+Miguel Nogueira: https://en.wikipedia.org/w/index.php?oldid=1383411431
+Telmo Arcanjo: https://en.wikipedia.org/w/index.php?oldid=1382401473
+Victor Andersson: https://en.wikipedia.org/w/index.php?oldid=1382675609
+Samu (footballer, born 1996): https://en.wikipedia.org/w/index.php?oldid=1383908217
+Toni Borevković: https://en.wikipedia.org/w/index.php?oldid=1382759309
+Juan Diego Castillo: https://en.wikipedia.org/w/index.php?oldid=1382755084
+Tony Strata: https://en.wikipedia.org/w/index.php?oldid=1382743766
+Alioune Ndoye: https://en.wikipedia.org/w/index.php?oldid=1382022181
+Thiago Balieiro: https://en.wikipedia.org/w/index.php?oldid=1382759158
+Patrick Ouotro: https://en.wikipedia.org/w/index.php?oldid=1384164078
+Fabio Blanco: https://en.wikipedia.org/w/index.php?oldid=1382154555
+Lohann Doucet: https://en.wikipedia.org/w/index.php?oldid=1382176408
+Marco Cruz: https://en.wikipedia.org/w/index.php?oldid=1382378284
+Oliwier Zych: https://en.wikipedia.org/w/index.php?oldid=1382877947
+Santiago Verdi: https://en.wikipedia.org/w/index.php?oldid=1382396463
+Lucas Furtado: https://en.wikipedia.org/w/index.php?oldid=1384281717
+
+Data snapshots, SHA256 and transformations are recorded in server/data/current-provenance.json and scripts/build-current-data.py in the editable source. Ratings, potential, price and results are Touchline simulation parameters, not official statistics. Some photographs date from other seasons/kits; their source-declared year and individual license are listed separately. No endorsement or partnership is implied.
+
+MIT License
+
+Copyright (c) 2017-19 Vaastav Anand
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+The data provided is property of http://fantasy.premierleague.com and https://understat.com
+I don't own any of the data
+
+CC0 1.0 Universal
+
+Statement of Purpose
+
+The laws of most jurisdictions throughout the world automatically confer
+exclusive Copyright and Related Rights (defined below) upon the creator and
+subsequent owner(s) (each and all, an "owner") of an original work of
+authorship and/or a database (each, a "Work").
+
+Certain owners wish to permanently relinquish those rights to a Work for the
+purpose of contributing to a commons of creative, cultural and scientific
+works ("Commons") that the public can reliably and without fear of later
+claims of infringement build upon, modify, incorporate in other works, reuse
+and redistribute as freely as possible in any form whatsoever and for any
+purposes, including without limitation commercial purposes. These owners may
+contribute to the Commons to promote the ideal of a free culture and the
+further production of creative, cultural and scientific works, or to gain
+reputation or greater distribution for their Work in part through the use and
+efforts of others.
+
+For these and/or other purposes and motivations, and without any expectation
+of additional consideration or compensation, the person associating CC0 with a
+Work (the "Affirmer"), to the extent that he or she is an owner of Copyright
+and Related Rights in the Work, voluntarily elects to apply CC0 to the Work
+and publicly distribute the Work under its terms, with knowledge of his or her
+Copyright and Related Rights in the Work and the meaning and intended legal
+effect of CC0 on those rights.
+
+1. Copyright and Related Rights. A Work made available under CC0 may be
+protected by copyright and related or neighboring rights ("Copyright and
+Related Rights"). Copyright and Related Rights include, but are not limited
+to, the following:
+
+  i. the right to reproduce, adapt, distribute, perform, display, communicate,
+  and translate a Work;
+
+  ii. moral rights retained by the original author(s) and/or performer(s);
+
+  iii. publicity and privacy rights pertaining to a person's image or likeness
+  depicted in a Work;
+
+  iv. rights protecting against unfair competition in regards to a Work,
+  subject to the limitations in paragraph 4(a), below;
+
+  v. rights protecting the extraction, dissemination, use and reuse of data in
+  a Work;
+
+  vi. database rights (such as those arising under Directive 96/9/EC of the
+  European Parliament and of the Council of 11 March 1996 on the legal
+  protection of databases, and under any national implementation thereof,
+  including any amended or successor version of such directive); and
+
+  vii. other similar, equivalent or corresponding rights throughout the world
+  based on applicable law or treaty, and any national implementations thereof.
+
+2. Waiver. To the greatest extent permitted by, but not in contravention of,
+applicable law, Affirmer hereby overtly, fully, permanently, irrevocably and
+unconditionally waives, abandons, and surrenders all of Affirmer's Copyright
+and Related Rights and associated claims and causes of action, whether now
+known or unknown (including existing as well as future claims and causes of
+action), in the Work (i) in all territories worldwide, (ii) for the maximum
+duration provided by applicable law or treaty (including future time
+extensions), (iii) in any current or future medium and for any number of
+copies, and (iv) for any purpose whatsoever, including without limitation
+commercial, advertising or promotional purposes (the "Waiver"). Affirmer makes
+the Waiver for the benefit of each member of the public at large and to the
+detriment of Affirmer's heirs and successors, fully intending that such Waiver
+shall not be subject to revocation, rescission, cancellation, termination, or
+any other legal or equitable action to disrupt the quiet enjoyment of the Work
+by the public as contemplated by Affirmer's express Statement of Purpose.
+
+3. Public License Fallback. Should any part of the Waiver for any reason be
+judged legally invalid or ineffective under applicable law, then the Waiver
+shall be preserved to the maximum extent permitted taking into account
+Affirmer's express Statement of Purpose. In addition, to the extent the Waiver
+is so judged Affirmer hereby grants to each affected person a royalty-free,
+non transferable, non sublicensable, non exclusive, irrevocable and
+unconditional license to exercise Affirmer's Copyright and Related Rights in
+the Work (i) in all territories worldwide, (ii) for the maximum duration
+provided by applicable law or treaty (including future time extensions), (iii)
+in any current or future medium and for any number of copies, and (iv) for any
+purpose whatsoever, including without limitation commercial, advertising or
+promotional purposes (the "License"). The License shall be deemed effective as
+of the date CC0 was applied by Affirmer to the Work. Should any part of the
+License for any reason be judged legally invalid or ineffective under
+applicable law, such partial invalidity or ineffectiveness shall not
+invalidate the remainder of the License, and in such case Affirmer hereby
+affirms that he or she will not (i) exercise any of his or her remaining
+Copyright and Related Rights in the Work or (ii) assert any associated claims
+and causes of action with respect to the Work, in either case contrary to
+Affirmer's express Statement of Purpose.
+
+4. Limitations and Disclaimers.
+
+  a. No trademark or patent rights held by Affirmer are waived, abandoned,
+  surrendered, licensed or otherwise affected by this document.
+
+  b. Affirmer offers the Work as-is and makes no representations or warranties
+  of any kind concerning the Work, express, implied, statutory or otherwise,
+  including without limitation warranties of title, merchantability, fitness
+  for a particular purpose, non infringement, or the absence of latent or
+  other defects, accuracy, or the present or absence of errors, whether or not
+  discoverable, all to the greatest extent permissible under applicable law.
+
+  c. Affirmer disclaims responsibility for clearing rights of other persons
+  that may apply to the Work or any use thereof, including without limitation
+  any person's Copyright and Related Rights in the Work. Further, Affirmer
+  disclaims responsibility for obtaining any necessary consents, permissions
+  or other rights required for any use of the Work.
+
+  d. Affirmer understands and acknowledges that Creative Commons is not a
+  party to this document and has no duty or obligation with respect to this
+  CC0 or use of the Work.
+
+For more information, please see
+<http://creativecommons.org/publicdomain/zero/1.0/>
+
+
+ARCHIVED 2024/25 DATA:
 TOUCHLINE — HISTORICAL FOOTBALL DATA
 
 Fixtures and club names: openfootball/football.json, season 2024-25. CC0-1.0.
@@ -10,7 +655,7 @@ Portuguese playable squads: manual historical curation for Benfica, Porto, Sport
 
 Ratings, potential, price, opponent strengths and all simulated results are Touchline game parameters, not official football or scouting ratings. No affiliation with leagues, clubs, players or FPL is implied.
 
-Photographs: none admitted until individual image licenses can be verified. Original vector portraits are illustrations and are labelled as such in historical careers.
+Photographs: individually admitted images are listed in THIRD_PARTY_NOTICES and in-game Preferences. Original vector portraits are illustrations and are labelled as such in historical careers.
 
 MIT License
 
