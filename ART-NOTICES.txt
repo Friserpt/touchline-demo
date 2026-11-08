@@ -10,3 +10,5 @@ Morten Hjulmand; Francisco Trincão; Orkun Kökçü; Vangelis Pavlidis;
 Virgil van Dijk; Cole Palmer; Son Heung-min; Luis Díaz.
 
 Normalized to 1024x1024 WebP; source identifiers and SHA256 are recorded in src/assets/portraits/provenance.json in the editable project. Generic SVG portraits remain for historical players without an admitted photograph or curated illustration. No official club logos or assets from a commercial football game are included.
+
+App icons (180/192/512 PNG): raster exports of the original Touchline vector mark, generated locally with scripts/create-app-icons.mjs. No external artwork.
