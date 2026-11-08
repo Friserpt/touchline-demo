@@ -1,6 +1,6 @@
 Touchline browser career — third-party notices
 
-Original UI composition. Historical factual club/player data credited in DATA-NOTICES. No official photographs or club logos bundled.
+Original UI composition. Historical factual club/player data credited in DATA-NOTICES. Player photographs are individually credited below. No official club logos or endorsement.
 
 
 === @alloc/quick-lru 5.2.0 (MIT) ===
@@ -16101,6 +16101,119 @@ Affirmer's express Statement of Purpose.
 For more information, please see
 <http://creativecommons.org/publicdomain/zero/1.0/>
 
+=== Player photograph: Alan Varela ===
+Author: Werner100359
+Source: https://commons.wikimedia.org/wiki/File:FC_Salzburg_gegen_FC_Porto_(2025-09-25_UEFA_Euro_League_)_63_(Alan_Varela).jpg
+License: CC-BY-SA-4.0 https://creativecommons.org/licenses/by-sa/4.0
+Changes: Miniatura Wikimedia a 330 px, sem retoque. Enquadramento por CSS. A fotografia pode ser de outra época ou equipa.
+SHA256: 62c3c39b5fdfe48536611d1fc40eeb5a7685a1ca7291f3ee3ecdffeb3c7fa90b
+
+=== Player photograph: Alexander Bah ===
+Author: Ser!
+Source: https://commons.wikimedia.org/wiki/File:Alexander_Bah_2026.jpg
+License: CC-BY-SA-4.0 https://creativecommons.org/licenses/by-sa/4.0
+Changes: Miniatura Wikimedia a 330 px, sem retoque. Enquadramento por CSS. A fotografia pode ser de outra época ou equipa.
+SHA256: 81380d3af7c6d504abf26080c008c701ea83820e34a52a07766de98250434eb2
+
+=== Player photograph: Álvaro Carreras ===
+Author: Sport Lisboa e Benfica
+Source: https://commons.wikimedia.org/wiki/File:%C3%81lvaroCarreras.jpg
+License: CC-BY-3.0 https://creativecommons.org/licenses/by/3.0
+Changes: Miniatura Wikimedia a 330 px, sem retoque. Enquadramento por CSS. A fotografia pode ser de outra época ou equipa.
+SHA256: 9a390820d1523805bf24e8da18aafcc66e0be2b5efc56d4a97b3f5992644114e
+
+=== Player photograph: Anatoliy Trubin ===
+Author: Yuliia Perekopaiko
+Source: https://commons.wikimedia.org/wiki/File:%D0%9E%D1%82%D0%B1%D0%BE%D1%80_%D0%BA_%D0%A7%D0%9C-2022._%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0_-_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD_1-1._31_%D0%BC%D0%B0%D1%80%D1%82%D0%B0_2021_%D0%B3%D0%BE%D0%B4%D0%B0_%E2%80%94_1212878_(cropped).jpg
+License: CC-BY-SA-4.0 https://creativecommons.org/licenses/by-sa/4.0
+Changes: Miniatura Wikimedia a 330 px, sem retoque. Enquadramento por CSS. A fotografia pode ser de outra época ou equipa.
+SHA256: 39db4ca36a0abb86ce1f96f95c8714081abca94a7b83e3581d6f9039adc29233
+
+=== Player photograph: Ángel Di María ===
+Author: Кирилл Венедиктов
+Source: https://commons.wikimedia.org/wiki/File:NIG-ARG_(5).jpg
+License: CC-BY-SA-3.0 https://creativecommons.org/licenses/by-sa/3.0
+Changes: Miniatura Wikimedia a 330 px, sem retoque. Enquadramento por CSS. A fotografia pode ser de outra época ou equipa.
+SHA256: 194c484120edb7e5f409b5e4e2661de7c4dc51d5c5c4bcdad39483161583127a
+
+=== Player photograph: Arthur Cabral ===
+Author: Sport Lisboa e Benfica
+Source: https://commons.wikimedia.org/wiki/File:Arthur_Cabral,_atacante_do_Benfica,_em_promo%C3%A7%C3%A3o_ao_EAFC_24_(cropped).jpg
+License: CC-BY-3.0 https://creativecommons.org/licenses/by/3.0
+Changes: Miniatura Wikimedia a 330 px, sem retoque. Enquadramento por CSS. A fotografia pode ser de outra época ou equipa.
+SHA256: 4a74a611853aeb1551d70ee2634c95a3b81038519ec3ebfa788baa5de4ddb0aa
+
+=== Player photograph: Florentino Luís ===
+Author: Sport Lisboa e Benfica
+Source: https://commons.wikimedia.org/wiki/File:Florentino_Luis_2019.png
+License: CC-BY-3.0 https://creativecommons.org/licenses/by/3.0
+Changes: Miniatura Wikimedia a 330 px, sem retoque. Enquadramento por CSS. A fotografia pode ser de outra época ou equipa.
+SHA256: 939971cdf65e8f368df45dc622eed4c99155e8b851252e4a6e6ce899ee2a8588
+
+=== Player photograph: Francisco Moura ===
+Author: Werner100359
+Source: https://commons.wikimedia.org/wiki/File:FC_Salzburg_gegen_FC_Porto_(2025-09-25_UEFA_Euro_League_)_100_(Francisco_Moura).jpg
+License: CC-BY-SA-4.0 https://creativecommons.org/licenses/by-sa/4.0
+Changes: Miniatura Wikimedia a 330 px, sem retoque. Enquadramento por CSS. A fotografia pode ser de outra época ou equipa.
+SHA256: 9daec7d555981ccecf88c42e67fb8c6d63b3aa401931324243128784541b3ff7
+
+=== Player photograph: Gonçalo Borges ===
+Author: Hans Reefman
+Source: https://commons.wikimedia.org/wiki/File:Goncalo_borges-1772633344_(cropped).JPG
+License: CC-BY-SA-4.0 https://creativecommons.org/licenses/by-sa/4.0
+Changes: Miniatura Wikimedia a 330 px, sem retoque. Enquadramento por CSS. A fotografia pode ser de outra época ou equipa.
+SHA256: 47abb6ab5869f1d1988843653465c9d2a43fef6873daa7ea83b6df9bf0d5a497
+
+=== Player photograph: Leandro Barreiro ===
+Author: Ser!
+Source: https://commons.wikimedia.org/wiki/File:Leandro_Barreiro_2026.jpg
+License: CC-BY-SA-4.0 https://creativecommons.org/licenses/by-sa/4.0
+Changes: Miniatura Wikimedia a 330 px, sem retoque. Enquadramento por CSS. A fotografia pode ser de outra época ou equipa.
+SHA256: faf3ed76ff5a9d3c031c96312918aa19001ed1cf534fb09afe127559308fb472
+
+=== Player photograph: Nehuén Pérez ===
+Author: jmmuguerza
+Source: https://commons.wikimedia.org/wiki/File:Nehu%C3%A9n_P%C3%A9rez.jpeg
+License: CC-BY-SA-3.0 https://creativecommons.org/licenses/by-sa/3.0
+Changes: Miniatura Wikimedia a 330 px, sem retoque. Enquadramento por CSS. A fotografia pode ser de outra época ou equipa.
+SHA256: 4466a0fde74ac8b7bbb279eea46db48b842fa72995114340c435a0dec692fee2
+
+=== Player photograph: Orkun Kökçü ===
+Author: Original:  Zafer
+Derivative work:  FootyBystander
+Source: https://commons.wikimedia.org/wiki/File:Orkun_K%C3%B6k%C3%A7%C3%BC_20260121_(2)_-_cropped_version.jpg
+License: CC-BY-4.0 https://creativecommons.org/licenses/by/4.0
+Changes: Miniatura Wikimedia a 330 px, sem retoque. Enquadramento por CSS. A fotografia pode ser de outra época ou equipa.
+SHA256: 75ddd48f68f17491130c8541a50fbc3ef71f93c2629369caa8fbe74b3ed02e69
+
+=== Player photograph: Pepê ===
+Author: Agência LUSA
+Source: https://commons.wikimedia.org/wiki/File:Pep%C3%AA_-_Porto_-_2023.png
+License: CC-BY-3.0 https://creativecommons.org/licenses/by/3.0
+Changes: Miniatura Wikimedia a 330 px, sem retoque. Enquadramento por CSS. A fotografia pode ser de outra época ou equipa.
+SHA256: 2292b0c38d6611d16fcbd0e2c4bcc37b439cf616b54520580217c35c2244b44a
+
+=== Player photograph: Samu Aghehowa ===
+Author: Like tears in rain
+Source: https://commons.wikimedia.org/wiki/File:Uzbekistan_vs._Spain,_2024_Summer_Olympic_men%27s_association_football,_2024-07-24_(471)_-_Samu.jpg
+License: CC-BY-SA-4.0 https://creativecommons.org/licenses/by-sa/4.0
+Changes: Miniatura Wikimedia a 330 px, sem retoque. Enquadramento por CSS. A fotografia pode ser de outra época ou equipa.
+SHA256: af5684b73fe582efc6eb32cc949ac8b19ac8373801d287659a0f8b3dbab0c654
+
+=== Player photograph: Vangelis Pavlidis ===
+Author: Sport Lisboa e Benfica
+Source: https://commons.wikimedia.org/wiki/File:VangelisPavlidis.jpg
+License: CC-BY-3.0 https://creativecommons.org/licenses/by/3.0
+Changes: Miniatura Wikimedia a 330 px, sem retoque. Enquadramento por CSS. A fotografia pode ser de outra época ou equipa.
+SHA256: 04b5bded7210c8e605a75d1dc023f90bd4dec55c3bc1fed21f2442ce76c02ba0
+
+=== Player photograph: Wendell ===
+Author: Fuguito
+Source: https://commons.wikimedia.org/wiki/File:Wendell.jpg
+License: CC-BY-SA-4.0 https://creativecommons.org/licenses/by-sa/4.0
+Changes: Miniatura Wikimedia a 330 px, sem retoque. Enquadramento por CSS. A fotografia pode ser de outra época ou equipa.
+SHA256: c5aa757ed2d3622c4313a1278fa55f6a01ca5d0fef4be60dd47d950769f0f532
+
 
 TOUCHLINE · ORIGINAL GENERATED PORTRAIT ART
 
@@ -16116,3 +16229,5 @@ Virgil van Dijk; Cole Palmer; Son Heung-min; Luis Díaz.
 Normalized to 1024x1024 WebP; source identifiers and SHA256 are recorded in src/assets/portraits/provenance.json in the editable project. Generic SVG portraits remain for historical players without an admitted photograph or curated illustration. No official club logos or assets from a commercial football game are included.
 
 App icons (180/192/512 PNG): raster exports of the original Touchline vector mark, generated locally with scripts/create-app-icons.mjs. No external artwork.
+
+Player photographs v0.16.1: 16 individually credited CC BY / CC BY-SA photographs. Per-file authors, sources, license URLs, modifications and SHA256 are listed in THIRD_PARTY_NOTICES and in-game Preferences. No endorsement is implied. The photo may show a different season or kit from the historical game archive.
